@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Institute “Big Data for Smart Society” - GATE is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.gate-ai.eu/
+Institute “Big Data for Smart Society” - GATE is a European research institute focused on advancing big data technologies for smart societies. It operates under the GATE AI umbrella, offering expertise in data management, analytics, digital health, future cities, intelligent government, and smart industry. The institute collaborates with academia, industry, and public sector partners to develop innovative solutions, conduct cutting‑edge research, and provide training and consultancy services across a wide range of application domains.
+
+**Areas:** Company · Research · Big Data · Smart Society · AI
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.gate-ai.eu/)
+- [Documentation](https://www.gate-ai.eu/en/about/)
+- [Support](https://www.gate-ai.eu/en/contacts/)
+- [Blog](https://www.gate-ai.eu/en/blog/)
+- [Privacy policy](https://www.gate-ai.eu/en/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/institute-big-data-for-smart-society-gate/](https://apis.io/providers/institute-big-data-for-smart-society-gate/).
